@@ -1,0 +1,17 @@
+streamlit
+ollama
+langchain
+langchain-community
+youtube-transcript-api
+PyMuPDF
+pillow
+pytesseract
+SpeechRecognition
+pyttsx3
+openai-whisper
+python-docx
+reportlab
+pandas
+matplotlib
+opencv-python
+pygame
